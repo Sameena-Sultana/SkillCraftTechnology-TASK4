@@ -35,20 +35,20 @@ We use diverse visualizations (bar plots, pie charts, heatmaps, clustering, etc.
 | `Accident`               | Binary outcome indicating whether an accident occurred |
 ---
 ## ✅  What I Analysed through this task 
--🌧️ Weather and lighting conditions were key contributors to accidents.
--🛣️ Highways showed more severe accidents compared to urban roads.
--🚦 High traffic density combined with higher speed limits led to more serious outcomes.
--🚗 Driver alcohol involvement significantly increased accident occurrence.
--📈 A clear trend was found: higher speed limits correlate with more severe accidents.
--🎨 Successfully used heatmaps, line plots, bar charts, pie charts, and cluster plots to explain accident patterns.
--🤖 Cluster analysis revealed 3–4 major patterns of accident conditions (e.g., young drunk drivers on highways at night).
--📊 All insights were presented through visually rich, non-repetitive charts.
+- 🌧️ Weather and lighting conditions were key contributors to accidents.
+- 🛣️ Highways showed more severe accidents compared to urban roads.
+- 🚦 High traffic density combined with higher speed limits led to more serious outcomes.
+- 🚗 Driver alcohol involvement significantly increased accident occurrence.
+- 📈 A clear trend was found: higher speed limits correlate with more severe accidents.
+- 🎨 Successfully used heatmaps, line plots, bar charts, pie charts, and cluster plots to explain accident patterns.
+- 🤖 Cluster analysis revealed 3–4 major patterns of accident conditions (e.g., young drunk drivers on highways at night).
+- 📊 All insights were presented through visually rich, non-repetitive charts.
 
 ## ⚙️ Requirements
--Python
--Jupyter notebook
--Libraries Used:
--pandas & numpy: Data manipulation
--matplotlib & seaborn: Bar plots, pie charts, line graphs, heatmaps
--plotly: Interactive scatter plots and cluster visualization
--folium: Map-based accident heatmaps (optional if lat-long is present)
+- Python
+- Jupyter notebook
+- Libraries Used:
+- pandas & numpy: Data manipulation
+- matplotlib & seaborn: Bar plots, pie charts, line graphs, heatmaps
+- plotly: Interactive scatter plots and cluster visualization
+- folium: Map-based accident heatmaps (optional if lat-long is present)
