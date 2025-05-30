@@ -16,34 +16,14 @@ We use diverse visualizations (bar plots, pie charts, heatmaps, clustering, etc.
 - Visualize relationships and trends using expressive and interactive charts.
 - Build a visual story to support data-driven decisions for traffic safety.
 ---
-## 📋 Features Used in Dataset
-| Column Name              | Description                                          |
-|--------------------------|------------------------------------------------------|
-| `Weather`                | Weather condition at the time of accident            |
-| `Road_Type`              | Type of road (e.g., Highway, Urban)                  |
-| `Time_of_Day`            | Time segment when accident occurred                  |
-| `Traffic_Density`        | Level of traffic (Low, Medium, High)                 |
-| `Speed_Limit`            | Speed limit at the location (in km/h or mph)         |
-| `Number_of_Vehicles`     | Number of vehicles involved                          |
-| `Driver_Alcohol`         | Alcohol consumption status of driver                 |
-| `Accident_Severity`      | Categorical severity of the accident                 |
-| `Road_Condition`         | Surface condition of the road                        |
-| `Vehicle_Type`           | Vehicle type involved in the accident                |
-| `Driver_Age`             | Age of the driver                                    |
-| `Driver_Experience`      | Driving experience of the driver                     |
-| `Road_Light_Condition`   | Lighting condition on the road at time of accident   |
-| `Accident`               | Binary outcome indicating whether an accident occurred |
----
 ## ✅  What I Analysed through this task 
 - 🌧️ Weather and lighting conditions were key contributors to accidents.
 - 🛣️ Highways showed more severe accidents compared to urban roads.
 - 🚦 High traffic density combined with higher speed limits led to more serious outcomes.
 - 🚗 Driver alcohol involvement significantly increased accident occurrence.
 - 📈 A clear trend was found: higher speed limits correlate with more severe accidents.
-- 🎨 Successfully used heatmaps, line plots, bar charts, pie charts, and cluster plots to explain accident patterns.
+- 🎨 Successfully used heatmaps, line plots, bar charts and pie charts to explain accident patterns.
 - 🤖 Cluster analysis revealed 3–4 major patterns of accident conditions (e.g., young drunk drivers on highways at night).
-- 📊 All insights were presented through visually rich, non-repetitive charts.
-
 ## ⚙️ Requirements
 - Python
 - Jupyter notebook
