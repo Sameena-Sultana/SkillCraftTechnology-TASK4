@@ -1,5 +1,5 @@
 # SkillCraftTechnology-TASK4
-# TASK-4:🚦 Traffic Accident Analysis with Visual Insights
+# 🚦 Traffic Accident Analysis with Visual Insights
 A data visualization and pattern discovery project based on real-world traffic accident conditions. This notebook uncovers insights about accident causes and severity using clean visual analytics.
 ---
 ## 📝 Task Overview
